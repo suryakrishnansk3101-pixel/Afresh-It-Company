@@ -1,0 +1,35 @@
+# Environment & Secrets
+.env
+*.env
+!.env.example
+
+# Python & Backend
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+*.sqlite3
+media/
+staticfiles/
+mysql_data/
+
+# Frontend & Node
+node_modules/
+dist/
+.output/
+.cache/
+
+# OS & IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+scratch/
+*.html
+Afresh it comapny*
+
+
