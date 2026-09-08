@@ -292,8 +292,8 @@ The project uses environment variables for secure credential management. Create 
 
 ```ini
 # Django Configuration
-SECRET_KEY=django-insecure-afresh-it-dev-key-change-in-prod-2026
-DEBUG=True
+SECRET_KEY=your_django_secret_key_here
+DEBUG=False
 ALLOWED_HOSTS=*
 
 # Primary MySQL Database Configuration
