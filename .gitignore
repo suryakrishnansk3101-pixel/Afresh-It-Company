@@ -29,7 +29,6 @@ Thumbs.db
 .vscode/
 .idea/
 scratch/
-*.html
+
+# Project-specific
 Afresh it comapny*
-
-
